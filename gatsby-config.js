@@ -13,6 +13,6 @@ module.exports = {
         path: `${__dirname}/src/`,
       },
     },
-    `gatsby-transformer-remark`, // 追加する
+    `gatsby-transformer-remark`,
   ],
 }
